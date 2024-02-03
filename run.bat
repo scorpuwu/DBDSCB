@@ -1,0 +1,1 @@
+start cmd.exe /K "python .\check.py"
